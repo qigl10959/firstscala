@@ -3,6 +3,8 @@ package com.qigl.abstractcontrol
 /**
   * 控制抽象的第二个练习
   * 我修改了hot-fix分支
+  * 我在没创建分支的情况下修改了代码
+  *
   */
 import java.io.File
 object AbstractControlTest02 {
